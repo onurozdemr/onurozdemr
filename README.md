@@ -2,8 +2,6 @@
 <h3 align="center"> sophomore year undergradute Computer Science student at Bilkent University </h3>
 
 
-- 🌱 I’m currently learning machine learning and deep learning.
-
 - 📫 How to reach me onur.ozdemmr@gmail.com
 
 
