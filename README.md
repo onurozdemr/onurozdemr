@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Onur Özdemir</h1>
-<h3 align="center"> Sophomore year undergradute Computer Science student at Bilkent University </h3>
+<h3 align="center"> Junior year undergradute Computer Science student at Bilkent University </h3>
 
 
 
