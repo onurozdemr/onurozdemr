@@ -1,7 +1,3 @@
-<h1 align="center">Hi , I'm Onur Özdemir</h1>
-<h3 align="center"> Junior year undergradute Computer Science student at Bilkent University </h3>
-
-
 
 
 - 📫 How to reach me onur.ozdemmr@gmail.com
